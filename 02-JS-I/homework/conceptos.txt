@@ -1,0 +1,10 @@
+Variables: son una forma de almacenar algo que sera utilizado más tarde.
+
+Strings: son cadenas o hilos de caracteres, siempre se escriben con " simples o dobles.
+
+Funciones (argumentos, return): te permiten crear bloques de codigos que puedes reutilizar más adelante,
+los argumentos 
+
+
+Declaraciones if
+Valores boleanos (true, false)
